@@ -1,5 +1,5 @@
 # about-me
-about me
+Hello, I'm Alexandre Mendes!
 
 Hi, I've been a software developer since 2021 and have been building solutions with Javascript and Typescript.
 
